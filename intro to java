@@ -1,0 +1,120 @@
+public class YourName {
+	public static void main(String[] args) {
+
+		System.out.println("Lisa");
+
+	}
+}
+
+public class DataTypes {
+	public static void main(String[] args) {
+
+		System.out.println(100);
+
+	}
+}
+public class DataTypesB {
+	public static void main(String[] args) {
+
+		System.out.println(true);
+
+	}
+}
+
+public class DataTypesC {
+	public static void main(String[] args) {
+
+		System.out.println('*');
+
+	}
+}
+
+public class Variables {
+	public static void main(String[] args) {
+
+		int myNumber = 42;
+		boolean isFun; 
+		char movieRating; 
+
+	}
+}
+
+public class Variables {
+	public static void main(String[] args) {
+
+		int myNumber = 42;
+		boolean isFun = true; 
+		char movieRating = 'A'; 
+
+	}
+}
+public class WhiteSpace {
+	public static void main(String[] args) {
+
+		boolean isFormatted = false;
+    System.out.println(isFormatted);
+
+	}
+}
+
+public class Comments {
+	public static void main(String[] args) {
+
+	//	System.out.println("Noise!");
+		
+/* This is helping my confidence as I am about to take 
+    a certification. Future developer here I come.
+    */
+
+
+
+		
+	}
+}
+
+public class Arithmetic {
+	public static void main(String[] args) {
+
+		int myNumber = 21 * 41;
+		System.out.println(myNumber);
+
+	}
+}
+
+public class Modulo {
+	public static void main(String[] args) {
+
+		int myRemainder = 22 % 10;
+		System.out.println(myRemainder);
+
+	}
+} 
+
+public class RelationalOperators {
+	public static void main(String[] args) {
+
+		System.out.println( 10 < 21);
+
+	}
+}
+
+public class EqualityOperators {
+	public static void main(String[] args) {
+
+		System.out.println( 100 == 75);
+
+	}
+}
+
+public class Generalizations {
+	public static void main(String[] args) {
+
+
+		boolean isComplete = true;
+		int awesomeLevel = 121;
+		int epicLevel = awesomeLevel * 2;		
+		System.out.println(epicLevel);
+		
+// This is interesting. //
+	}
+}
